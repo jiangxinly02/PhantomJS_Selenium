@@ -1,1 +1,2 @@
 # PhantomJS_Selenium
+用Selenium打开无窗口浏览器PhantomJS,理论上可以爬到一切资源，但需要解决效率问题
